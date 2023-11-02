@@ -16,7 +16,7 @@ There are two different branches associated with this lesson.
   - Basic concepts of `flex` and `grid`. 
 
 ## Files in this Lesson
-- `index.js`
+- `index.html`
 - `style.css`
 
 ## Links for this Lesson
